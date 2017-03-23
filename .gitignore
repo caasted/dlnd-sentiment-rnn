@@ -2,7 +2,6 @@
 .DS_Store
 
 # Save file folders
-assets/
 checkpoints/
 
 # Project solution file
