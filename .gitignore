@@ -1,3 +1,13 @@
+# macOS files
+.DS_Store
+
+# Save file folders
+assets/
+checkpoints/
+
+# Project solution file
+Sentiment RNN Solution.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
